@@ -52,3 +52,4 @@ To view the project:
 	Open the map: Lvl_ThirdPerson.umap
 
 GitHub repository: https://github.com/MCTnyaaa/Gameplay01
+Google Drive (video and screenshots): https://drive.google.com/drive/folders/1hHZkrNV8NtftTqxRv3hMBdcXSSwgnvB7?usp=sharing
