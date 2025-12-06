@@ -3,7 +3,7 @@ Gameplay Skill – Unreal Engine 5
 This project showcases a third-person character with three playable abilities:
 	Fireball Projectile
 	Aura Flame (AoE damage)
-	Dash with Fire Trail
+	Explosive Dash with Fire Trail
 
 I implemented all systems using Blueprints, including ability logic, cooldowns, timers, hitboxes, animation states, and particle effects. I also created a custom animation for the Aura Flame ability and an idle animation inspired by my favorite esports player (Faker), which plays after 6 seconds of no input.
 
@@ -21,7 +21,7 @@ Abilities
 	Starts and ends through Blueprint-driven state logic
 	Cooldown: 10 seconds
 
-3. Flame Dash
+3. Explosive Dash
 	Quick forward movement
 	Fire particle trails on the feet
 	Separate dash animation
